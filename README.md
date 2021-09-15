@@ -4,7 +4,7 @@
 
 I am a professional Front End Developer. I'm very passionate and dedicated to my work. With 2 years of experience as a professional Front End Developer, I have acquired the skills and knowledge necessary to make your project a success. I’ve helped so many organizations improve their online presence and hope I can help you to make an awesome website for your business. I am passionate to learn more and get my skill sets more polished and learn new technologies. I love programming as It's my passion.
 
-Skills: HTML / CSS / JS / REACT JS/ SASS / BOOTSTRAP / TAILWIND CSS
+Skills: HTML / CSS / JS / REACT JS/ JQUERY / SASS / BOOTSTRAP / TAILWIND CSS
 
 - 🔭 I’m currently working on this page. 
 

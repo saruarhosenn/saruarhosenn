@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Saruar Hosen
+## Hi there 👋, I'm Saruar Hosen
 
-##[See My Portfolio](https://saruarhosen.netlify.app/)
+[See My Portfolio](https://saruarhosen.netlify.app/)
 
 ![Front End Developer](https://saruarhosenn.github.io/github-overview-pic/Colorful%20Business%20Data%20General%20Linkedin%20Banner.png)
 

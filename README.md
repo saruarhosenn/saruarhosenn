@@ -5,6 +5,7 @@
 I'm a Front End Web Developer from  Bangladesh. Highly motivated and creative Front End Web Developer passionate about building user-friendly, pixel-perfect, and responsive websites. I am skilled in developing clean, scalable code and reusable components. With 4+ years of experience as a Front End Web Developer, I have acquired the skills and knowledge necessary to make your project successful.
 
 :computer: I’m currently working on Themeforest based company [Layerdrops](https://themeforest.net/user/layerdrops) & [Bracket-Web](https://themeforest.net/user/bracket-web)
+:e-mail: &emsp;How to reach me: saruarhosen525@gmail.com.<br/>
 
 
 ### Expertise

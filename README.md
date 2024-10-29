@@ -18,9 +18,7 @@ I'm a Front End Web Developer from  Bangladesh. Highly motivated and creative Fr
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sumit.analyzen) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitanalyzen/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithsumit) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayhitorainmaker@gmail.com)
 
 ### Tutorials
-
-[PSD To HTML](https://youtube.com/playlist?list=PLeDlrI7CQJ0UBLogZ7BRlise08BshO7q9&si=1WDNim2vHq58ebby) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
-
+[PSD To HTML](https://youtube.com/playlist?list=PLeDlrI7CQJ0UBLogZ7BRlise08BshO7q9&si=1WDNim2vHq58ebby) [CSS Animation Effects](https://youtube.com/playlist?list=PLeDlrI7CQJ0VdrOZgErqjsQluv4c7g6M9&si=6JzSCt8f11cAfddk)
 ### My Projects & Ventures
 
 <table>

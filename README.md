@@ -10,21 +10,21 @@ I'm a Front End Web Developer from  Bangladesh. Highly motivated and creative Fr
 ### Expertise
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" title="HTML5" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" title="CSS3" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo" title="JavaScript" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="25" alt="jquery logo" title="jQuery" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo" title="SASS" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo" title="Bootstrap" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo" title="Tailwind CSS" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="25" alt="git logo" title="Git" />
-  <img width="10" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo" title="Visual Studio Code" />
 </div>
 

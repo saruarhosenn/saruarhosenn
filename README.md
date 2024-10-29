@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/saruarhosenn/github-overview-pic/blob/main/hero-2.png)
+![Github Image](https://github.com/saruarhosenn/github-overview-pic/blob/main/hero-2.png)
 
 ## Hi there 👋, I'm Saruar Hosen
 

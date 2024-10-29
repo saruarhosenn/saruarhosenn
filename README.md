@@ -15,56 +15,10 @@ I'm a Front End Web Developer from  Bangladesh. Highly motivated and creative Fr
 ### Connect with me!
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sumit.analyzen) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitanalyzen/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithsumit) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayhitorainmaker@gmail.com)
 
-### Tutorials
+### 📺 Latest YouTube Videos
 [PSD To HTML Videos](https://youtube.com/playlist?list=PLeDlrI7CQJ0UBLogZ7BRlise08BshO7q9&si=1WDNim2vHq58ebby) &nbsp; [CSS Animation Effects Videos](https://youtube.com/playlist?list=PLeDlrI7CQJ0VdrOZgErqjsQluv4c7g6M9&si=6JzSCt8f11cAfddk)
-### My Projects & Ventures
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Responses</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
-      <td>Programming related Learning Platform for Bangladesh</td>
-      <td>200K+ active learners</td>
-    </tr>
-    <tr>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
-      <td>Visual Studio Code Editor Theme</td>
-      <td>84K+ installs</td>
-    </tr>
-    <tr>
-      <td>Listenyzen</td>
-      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
-      <td>65+ clients</td>
-    </tr>
-    <tr>
-      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
-      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
-      <td>120+ clients</td>
-    </tr>
-    <tr>
-      <td>Prism</td>
-      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
-      <td>2.5k+ Distributors Nationwide</td>
-    </tr>
-    <tr>
-      <td>Unilever MARS</td>
-      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
-      <td>20 million+ Consumer Data Managed Already</td>
-    </tr>
-    <tr>
-      <td>Microzen</td>
-      <td>Microcredit Automation System with AI based Decision Support System</td>
-      <td>10 million+ Consumer Financial Data Managed Already</td>
-    </tr>
-  </tbody>
-</table>
+
 
 ### 📺 &emsp;Latest YouTube Videos
 

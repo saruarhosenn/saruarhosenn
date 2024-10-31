@@ -34,5 +34,5 @@ I'm a Front End Web Developer from  Bangladesh. Highly motivated and creative Fr
 ### 📺 Latest YouTube Videos
 [PSD To HTML Videos](https://youtube.com/playlist?list=PLeDlrI7CQJ0UBLogZ7BRlise08BshO7q9&si=1WDNim2vHq58ebby) &nbsp; [CSS Animation Effects Videos](https://youtube.com/playlist?list=PLeDlrI7CQJ0VdrOZgErqjsQluv4c7g6M9&si=6JzSCt8f11cAfddk)
 <br/>
-### Github Stats
-![Saruar Hosen github stats](https://github-readme-stats.vercel.app/api?username=saruarhosenn&count_private=true&theme=tokyonight&hide=contribs,prs)
+<!-- ### Github Stats
+![Saruar Hosen github stats](https://github-readme-stats.vercel.app/api?username=saruarhosenn&count_private=true&theme=tokyonight&hide=contribs,prs) -->
